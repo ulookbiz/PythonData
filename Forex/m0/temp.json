@@ -1,0 +1,7 @@
+{ "target": [{"pair": "ETHUSD", "price": 3357, "direction": "topdown"},
+           {"pair": "ETHUSD", "price": 3360, "direction": "upwards"},
+          ],
+  "speed":  [{"pair": "EURUSD", "timeframe":["m1","m5","m15","m30","h1","h4","d1"]},
+           {"pair": "EURUSD", "timeframe":["m1","m5","m15","m30","h1","h4","d1"]}
+          ],
+}

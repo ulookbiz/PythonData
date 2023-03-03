@@ -1,0 +1,10 @@
+[{"target": [{"pair": "EURUSD", "price": 1.136, "direction": "topdown", "active":0},
+             {"pair": "EURUSD", "price": 1.137, "direction": "upwards", "active":0}
+            ]
+ },
+ {"speed":  [{"pair": "GBPUSD", "interval":5, "active":0},
+             {"pair": "EURUSD", "interval":5, "active":1},
+             {"pair": "ETHUSD", "interval":1, "active":0}
+            ]
+ }
+]

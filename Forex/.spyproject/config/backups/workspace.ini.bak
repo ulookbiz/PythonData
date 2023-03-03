@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['m0\\m0.py', 'm0\\speed.py', 'm0\\target.json', 'm0\\timer.py', 'm0\\pairs_data.py', 'm0\\source.py', 'm0\\funcs.py']
+
